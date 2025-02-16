@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Administrativo
-comment1.params=nombre\ edad\ identificacion\ puesto
-comment1.target=Administrativo(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
-comment2.params=
-comment2.target=void\ mostrarPuesto()
-comment3.params=profesor\ curso\ hora
-comment3.target=void\ organizarHorarioProfesor(Profesor,\ java.lang.String,\ java.lang.String)
-numComments=4
